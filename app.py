@@ -22,4 +22,8 @@ pyautogui.click(button='right')
 ## Use 'moveTo' to move the mouse upwards to middle of the screen.
 ## Use 'scroll' to scroll down the News.
 pyautogui.moveTo(680, 680, duration=1)
-pyautogui.vscroll(-5000000, x=680, y=680)
+pyautogui.vscroll(-100000, x=680, y=680)
+pyautogui.vscroll(-100000, x=685, y=685)
+pyautogui.vscroll(-100000, x=680, y=680)
+pyautogui.vscroll(-100000, x=685, y=685)
+pyautogui.vscroll(-100000, x=680, y=680)
