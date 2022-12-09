@@ -1,9 +1,3 @@
-## Notes:
-# Need to ensure 'pip3 install pyautogui' has been run (or pip).
-# To run the script use 'python3 app.py'
-# Close any other windows (if possible)
-# Coordinates below will need to be adjusted per device.
-
 ## Import 'pyautogui'.
 import pyautogui
 
